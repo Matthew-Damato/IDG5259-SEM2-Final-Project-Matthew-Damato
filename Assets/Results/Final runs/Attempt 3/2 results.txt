@@ -1,0 +1,278 @@
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617498
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.005619049
+Time = 139.0395
+Upgrade No. = 0
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: 3 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617498
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.005619049
+Time = 188.8009
+Upgrade No. = 0
+
+After upgrading: 
+Tower number = 0
+Damage = 0.9617498
+Range = 3
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50.00562
+Time = 188.8009
+Upgrade No. = 1
+Upgrade Concluded. 
+
+___________________________
+
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617498
+Range = 3
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50.00562
+Time = 238.8002
+Upgrade No. = 1
+
+After upgrading: 
+Tower number = 0
+Damage = 1.46175
+Range = 3
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 100.0056
+Time = 238.8002
+Upgrade No. = 2
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.390378
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50.00067
+Time = 124.7604
+Upgrade No. = 0
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.390378
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0007
+Time = 124.7604
+Upgrade No. = 1
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.46175
+Range = 3
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 100.0056
+Time = 313.8032
+Upgrade No. = 2
+
+After upgrading: 
+Tower number = 0
+Damage = 1.46175
+Range = 3.5
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0056
+Time = 313.8032
+Upgrade No. = 3
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.46175
+Range = 3.5
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0056
+Time = 338.8039
+Upgrade No. = 3
+
+After upgrading: 
+Tower number = 0
+Damage = 1.96175
+Range = 3.5
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 250.0056
+Time = 338.8039
+Upgrade No. = 4
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.96175
+Range = 3.5
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 250.0056
+Time = 388.8051
+Upgrade No. = 4
+
+After upgrading: 
+Tower number = 0
+Damage = 1.96175
+Range = 4
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350.0056
+Time = 388.8051
+Upgrade No. = 5
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.96175
+Range = 4
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350.0056
+Time = 438.8051
+Upgrade No. = 5
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: 0 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.96175
+Range = 4
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350.0056
+Time = 488.8049
+Upgrade No. = 5
+
+After upgrading: 
+Tower number = 0
+Damage = 1.96175
+Range = 4.5
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 550.0056
+Time = 488.8049
+Upgrade No. = 6
+Upgrade Concluded. 
+
+___________________________
+
+Final Values: 
+Tower number = 0
+Damage = 1.96175
+Range = 4.5
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 550.0056
+Time = 537.4557
+Upgrade No. = 6
+
+
+___________________________
+
+Time Taken for this attempt: 563.6365 
+
+___________________________
+
+Final Values: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.390378
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0007
+Time = 398.4222
+Upgrade No. = 1
+
+
+___________________________
+
+Time Taken for this attempt: 563.6365 
+
+___________________________
+

@@ -1,0 +1,130 @@
+ID = 00000
+Path = rate
+Rate of Fire = 0.9837595
+Range = 9.835089
+Damage = 0.987412
+Price = 20
+Total Kills = 20
+Time = 65.19322
+Time Total = 0
+Shots fired = 63
+Enemies entered range = 66
+___________________________
+
+ID = 00100
+Path = damage
+Rate of Fire = 1.012059
+Range = 9.85898
+Damage = 1.017535
+Price = 10
+Total Kills = 204
+Time = 383.9725
+Time Total = 0
+Shots fired = 374
+Enemies entered range = 378
+___________________________
+
+ID = 00101
+Path = rate
+Rate of Fire = 0.9332112
+Range = 9.881297
+Damage = 0.9740779
+Price = 20
+Total Kills = 28
+Time = 383.9707
+Time Total = 0
+Shots fired = 114
+Enemies entered range = 195
+___________________________
+
+ID = 00102
+Path = range
+Rate of Fire = 1.014691
+Range = 10.15449
+Damage = 0.9897783
+Price = 40
+Total Kills = 90
+Time = 383.9507
+Time Total = 0
+Shots fired = 349
+Enemies entered range = 379
+___________________________
+
+ID = 00203
+Path = rate
+Rate of Fire = 0.9090909
+Range = 9.880175
+Damage = 0.9754473
+Price = 10
+Total Kills = 172
+Time = 492.9003
+Time Total = 0
+Shots fired = 393
+Enemies entered range = 487
+___________________________
+
+ID = 00204
+Path = damage
+Rate of Fire = 1
+Range = 9.863066
+Damage = 1.077933
+Price = 30
+Total Kills = 229
+Time = 492.8984
+Time Total = 0
+Shots fired = 304
+Enemies entered range = 373
+___________________________
+
+ID = 00205
+Path = range
+Rate of Fire = 1.012518
+Range = 10.48724
+Damage = 0.9851592
+Price = 20
+Total Kills = 9
+Time = 492.8784
+Time Total = 0
+Shots fired = 488
+Enemies entered range = 488
+___________________________
+
+ID = 00303
+Path = damage
+Rate of Fire = 1.01504
+Range = 9.823892
+Damage = 1.1
+Price = 10
+Total Kills = 232
+Time = 514.6578
+Time Total = 0
+Shots fired = 394
+Enemies entered range = 483
+___________________________
+
+ID = 00304
+Path = rate
+Rate of Fire = 0.9090909
+Range = 9.8299
+Damage = 0.9881949
+Price = 10
+Total Kills = 2
+Time = 514.6544
+Time Total = 0
+Shots fired = 462
+Enemies entered range = 509
+___________________________
+
+ID = 00305
+Path = range
+Rate of Fire = 1.015982
+Range = 14
+Damage = 0.9823561
+Price = 40
+Total Kills = 217
+Time = 514.6343
+Time Total = 0
+Shots fired = 509
+Enemies entered range = 510
+___________________________
+

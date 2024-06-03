@@ -1,0 +1,105 @@
+Final Values: 
+Tower number = 0
+Damage = 0.961754
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.005195618
+Time = 237.0394
+Upgrade No. = 0
+Kills = 67
+
+
+___________________________
+
+Time Taken for this attempt: 263.2166 
+
+___________________________
+
+Final Values: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.006626129
+Time = 237.0398
+Upgrade No. = 0
+Kills = 67
+
+
+___________________________
+
+Time Taken for this attempt: 263.2272 
+
+___________________________
+
+Final Values: 
+Tower number = 0
+Damage = 0.9917528
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.005390167
+Time = 234.0388
+Upgrade No. = 0
+Kills = 66
+
+
+___________________________
+
+Time Taken for this attempt: 263.2217 
+
+___________________________
+
+Final Values: 
+Tower number = 0
+Damage = 0.9617442
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.006175995
+Time = 237.0397
+Upgrade No. = 0
+Kills = 67
+
+
+___________________________
+
+Time Taken for this attempt: 263.2263 
+
+___________________________
+
+Final Values: 
+Tower number = 0
+Damage = 0.9617436
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.00623703
+Time = 237.0235
+Upgrade No. = 0
+Kills = 67
+
+
+___________________________
+
+Time Taken for this attempt: 263.2025 
+
+___________________________
+

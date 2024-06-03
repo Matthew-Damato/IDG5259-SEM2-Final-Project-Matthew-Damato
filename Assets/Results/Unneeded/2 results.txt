@@ -1,0 +1,57 @@
+Upgrade Concluded. 
+
+___________________________
+
+Upgrade Concluded. 
+
+___________________________
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.790371
+Slow = 0
+Multi = 0
+Burst = 0
+Gold = 50.0099
+Time = 199.4998
+Upgrade No. = 1
+Upgrade Concluded. 
+
+___________________________
+
+Upgrade Concluded. 
+
+___________________________
+
+Final Values: 
+Tower number = 0
+Damage = 0.9617502
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold = 0.005580902
+Time = 473.3998
+Upgrade No. = 0
+
+
+___________________________
+
+Final Values: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.790371
+Slow = 0
+Multi = 0
+Burst = 0
+Gold = 50.0099
+Time = 294.3575
+Upgrade No. = 1
+
+
+___________________________
+

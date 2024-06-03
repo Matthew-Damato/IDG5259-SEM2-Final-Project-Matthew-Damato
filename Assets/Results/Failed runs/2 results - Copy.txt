@@ -1,0 +1,41 @@
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617478
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold = 0.005817413
+Time = 179.0395
+Upgrade No. = 0
+Upgrade Concluded. No upgrade Occured. Value Attempted: 4 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.790389
+Slow = 0
+Multi = 0
+Burst = 0
+Gold = 0.008346558
+Time = 99.50024
+Upgrade No. = 0
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.790389
+Slow = 0
+Multi = 0
+Burst = 0
+Gold = 50.00835
+Time = 99.50024
+Upgrade No. = 1
+Upgrade Concluded. 
+
+___________________________
+

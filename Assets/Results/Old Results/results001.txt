@@ -1,0 +1,39 @@
+ID = 00000
+Path = rate
+Rate of Fire = 0.990099
+Range = 9.7
+Damage = 0.96
+Price = 20
+Total Kills = 0
+Time = 45.17167
+Time Total = 0
+Shots fired = 45
+Enemies entered range = 46
+___________________________
+
+ID = 00001
+Path = damage
+Rate of Fire = 1.020408
+Range = 9.6
+Damage = 1.04
+Price = 20
+Total Kills = 17
+Time = 25.15734
+Time Total = 0
+Shots fired = 26
+Enemies entered range = 26
+___________________________
+
+ID = 00002
+Path = range
+Rate of Fire = 1.020408
+Range = 10.3
+Damage = 0.99
+Price = 10
+Total Kills = 9
+Time = 15.14809
+Time Total = 0
+Shots fired = 12
+Enemies entered range = 16
+___________________________
+

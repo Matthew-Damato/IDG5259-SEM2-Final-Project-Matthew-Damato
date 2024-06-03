@@ -1,0 +1,20 @@
+Final Values: 
+Tower number = 0
+Damage = 0.9617498
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.005619049
+Time = 237.0219
+Upgrade No. = 0
+
+
+___________________________
+
+Time Taken for this attempt: 263.2032 
+
+___________________________
+

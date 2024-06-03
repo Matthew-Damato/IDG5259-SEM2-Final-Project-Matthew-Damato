@@ -1,0 +1,30 @@
+Final Values: 
+Tower number = 0
+Damage = 0.9617506
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold = 0.005531311
+Time = 237.0401
+Upgrade No. = 0
+
+
+___________________________
+
+Final Values: 
+Tower number = 0
+Damage = 0.9617502
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold = 0.005580902
+Time = 237.0417
+Upgrade No. = 0
+
+
+___________________________
+

@@ -1,0 +1,602 @@
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.006626129
+Time = 139.0811
+Upgrade No. = 0
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: rate 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.006626129
+Time = 188.8204
+Upgrade No. = 0
+
+After upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50.00663
+Time = 188.8204
+Upgrade No. = 1
+Last upgrade: rate
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.390607
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.01878357
+Time = 74.73914
+Upgrade No. = 0
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.390607
+Slow = 1
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50.01878
+Time = 74.73914
+Upgrade No. = 1
+Last upgrade: slow
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.390607
+Slow = 1
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50.01878
+Time = 99.73993
+Upgrade No. = 1
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.390607
+Slow = 2
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0188
+Time = 99.73993
+Upgrade No. = 2
+Last upgrade: slow
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.390607
+Slow = 2
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0188
+Time = 149.74
+Upgrade No. = 2
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: slow 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 1.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50.00663
+Time = 338.8431
+Upgrade No. = 1
+
+After upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0066
+Time = 338.8431
+Upgrade No. = 2
+Last upgrade: rate
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.390607
+Slow = 2
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0188
+Time = 249.7605
+Upgrade No. = 2
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.890607
+Slow = 2
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 200.0188
+Time = 249.7605
+Upgrade No. = 3
+Last upgrade: rate
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0066
+Time = 413.84
+Upgrade No. = 2
+
+After upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350.0066
+Time = 413.84
+Upgrade No. = 3
+Last upgrade: rate
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350.0066
+Time = 463.8402
+Upgrade No. = 3
+
+After upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 1
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 400.0066
+Time = 463.8402
+Upgrade No. = 4
+Last upgrade: slow
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 1
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 400.0066
+Time = 488.8403
+Upgrade No. = 4
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: rate 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 1
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 400.0066
+Time = 538.8338
+Upgrade No. = 4
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: rate 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 2.890607
+Slow = 2
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 200.0188
+Time = 449.76
+Upgrade No. = 3
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 3.390607
+Slow = 2
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 300.0188
+Time = 449.76
+Upgrade No. = 4
+Last upgrade: rate
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 3.390607
+Slow = 2
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 300.0188
+Time = 499.7613
+Upgrade No. = 4
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 3.390607
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 500.0188
+Time = 499.7613
+Upgrade No. = 5
+Last upgrade: slow
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 1
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 400.0066
+Time = 688.8412
+Upgrade No. = 4
+
+After upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 2
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 500.0066
+Time = 688.8412
+Upgrade No. = 5
+Last upgrade: slow
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 2
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 500.0066
+Time = 738.8413
+Upgrade No. = 5
+
+After upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 700.0066
+Time = 738.8413
+Upgrade No. = 6
+Last upgrade: slow
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 3.390607
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 500.0188
+Time = 649.7794
+Upgrade No. = 5
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: slow 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 700.0066
+Time = 838.8427
+Upgrade No. = 6
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: rate 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 700.0066
+Time = 888.8469
+Upgrade No. = 6
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: slow 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 2.5
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 700.0066
+Time = 938.8589
+Upgrade No. = 6
+
+After upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 3
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 1100.007
+Time = 938.8589
+Upgrade No. = 7
+Last upgrade: rate
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 3.390607
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 500.0188
+Time = 849.8163
+Upgrade No. = 5
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: rate 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 3
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 1100.007
+Time = 1038.834
+Upgrade No. = 7
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: rate 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 3
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 1100.007
+Time = 1088.813
+Upgrade No. = 7
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: rate 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 3.390607
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 500.0188
+Time = 999.7953
+Upgrade No. = 5
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 3.390607
+Slow = 4
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 900.0188
+Time = 999.7953
+Upgrade No. = 6
+Last upgrade: slow
+Upgrade Concluded. 
+
+___________________________
+
+Final Values: 
+Tower number = 0
+Damage = 0.9617397
+Range = 3
+Rate = 3
+Slow = 3
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 1100.007
+Time = 1173.857
+Upgrade No. = 7
+Kills = 272
+
+
+___________________________
+
+Time Taken for this attempt: 1200 
+
+___________________________
+
+Final Values: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 3.390607
+Slow = 4
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 900.0188
+Time = 1035.148
+Upgrade No. = 6
+Kills = 358
+
+
+___________________________
+
+Time Taken for this attempt: 1200 
+
+___________________________
+

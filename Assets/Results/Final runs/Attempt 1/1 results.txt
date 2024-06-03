@@ -1,0 +1,282 @@
+Before upgrading: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.008483887
+Time = 249.979
+Upgrade No. = 0
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: damage 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0.008483887
+Time = 299.7375
+Upgrade No. = 0
+
+After upgrading: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50.00848
+Time = 299.7375
+Upgrade No. = 1
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50.00848
+Time = 324.7377
+Upgrade No. = 1
+
+After upgrading: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0085
+Time = 324.7377
+Upgrade No. = 2
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0085
+Time = 374.7375
+Upgrade No. = 2
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: damage 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 6
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 0
+Time = 174.7602
+Upgrade No. = 0
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 6
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50
+Time = 174.7602
+Upgrade No. = 1
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150.0085
+Time = 449.7398
+Upgrade No. = 2
+
+After upgrading: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350.0085
+Time = 449.7398
+Upgrade No. = 3
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 6
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 50
+Time = 249.7585
+Upgrade No. = 1
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 6
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150
+Time = 249.7585
+Upgrade No. = 2
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350.0085
+Time = 549.7505
+Upgrade No. = 3
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: damage 
+
+___________________________
+
+Before upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 6
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 150
+Time = 349.7857
+Upgrade No. = 2
+
+After upgrading: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 6
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350
+Time = 349.7857
+Upgrade No. = 3
+Upgrade Concluded. 
+
+___________________________
+
+Before upgrading: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350.0085
+Time = 649.7928
+Upgrade No. = 3
+
+Upgrade Concluded. No upgrade Occured. Value Attempted: damage 
+
+___________________________
+
+Final Values: 
+Tower number = 0
+Damage = 1.693538
+Range = 3
+Rate = 1
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350.0085
+Time = 695.0991
+Upgrade No. = 3
+
+
+___________________________
+
+Time Taken for this attempt: 744.7797 
+
+___________________________
+
+Final Values: 
+Tower number = 1
+Damage = 0.5
+Range = 3
+Rate = 6
+Slow = 0
+Multi = 0
+Burst = 0
+Gold-digger level: 0
+Gold = 350
+Time = 445.0855
+Upgrade No. = 3
+
+
+___________________________
+
+Time Taken for this attempt: 744.7797 
+
+___________________________
+
